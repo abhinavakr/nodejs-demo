@@ -7,7 +7,7 @@ pipeline {
         GIT_REPO_URL = 'https://github.com/abhinavakr/nodejs-demo.git' // Your Git repository URL
         GIT_BRANCH = 'edited' // Branch to commit changes to
         GIT_CREDENTIALS_ID = 'abhinav2173' // Jenkins credentials ID for Git
-        DOCKER_CREDENTIALS_ID = 'your-docker-credentials-id' // Jenkins credentials ID for Docker registry
+        DOCKER_CREDENTIALS_ID = 'Abhi2173123@' // Jenkins credentials ID for Docker registry
     }
 
     stages {
